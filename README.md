@@ -25,6 +25,8 @@
 ![Monitoring](images/Picture3.png)  
 *Monitoring du système*
 
+<br>
+
 ## 🚀 Fonctionnalités Principales
 
 ### 🌡️ Monitoring Thermique Intelligent
