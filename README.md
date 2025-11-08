@@ -15,7 +15,7 @@
 ## Schrein UI Builder
 
 ![WorkSpace](images/Picture2.jpg)
-*conception de l'interface de commande*
+*Conception de l'interface de commande*
 
 
 ## Interface de commande
