@@ -8,7 +8,7 @@
 
 ## 📸 Vue d'ensemble du système
 
-![Schéma de câblage Domotemp](images/Picture5.png)
+![Schéma de câblage Domotemp](images/Picture5.PNG)
 *Schéma de câblage complet du système Domotemp avec Arduino, L293D, DHT11 et relais*
 
 ## 🚀 Fonctionnalités Principales
