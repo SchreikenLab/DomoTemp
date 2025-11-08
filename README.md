@@ -6,6 +6,11 @@
 
 **Système complet de régulation thermique utilisant la bibliothèque SchreinSerialParser pour une communication série robuste et industrielle.**
 
+## 📸 Vue d'ensemble du système
+
+![Schéma de câblage Domotemp](images/Picture5.png)
+*Schéma de câblage complet du système Domotemp avec Arduino, L293D, DHT11 et relais*
+
 ## 🚀 Fonctionnalités Principales
 
 ### 🌡️ Monitoring Thermique Intelligent
@@ -52,6 +57,3 @@
 #define FAN_INPUT1_PIN      4     // Direction L293D IN1
 #define FAN_INPUT2_PIN      5     // Direction L293D IN2
 #define BULB_RELAY_PIN      6     // Commande relais ampoule
-
-```
-
