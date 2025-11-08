@@ -8,23 +8,18 @@
 
 ## Vue d'ensemble du système
 
-![Schéma de câblage Domotemp](images/Picture5.PNG)
+![Schématic](images/Picture5.PNG)
 *Schéma de câblage complet du système Domotemp avec Arduino, L293D, DHT11 et relais*
 
-## Conception graphique dans l'environnement *SchreinUIBuilder*
+## Schrein UI Builder
 
-![Conception UI](images/Picture2.jpg)
+![WorkSpace](images/Picture2.jpg)
 *conception de l'interface de commande*
-
-## Interface de commande
-
-![Monitoring](images/Picture1.png)
-*Monitoring*
 
 ## 📸 Interface de commande
 
-![Interface de commande](images/Picture3.png)
-*Schéma de câblage complet du système Domotemp avec Arduino, L293D, DHT11 et relais*
+![Monitoring](images/Picture3.png)
+*Monitoring du système*
 
 ## 🚀 Fonctionnalités Principales
 
