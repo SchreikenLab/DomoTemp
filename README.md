@@ -13,17 +13,17 @@
 
 ## 📸 Conception graphique dans SchreinUIBuilder
 
-![Conception UI](images/Picture2.PNG)
+![Conception UI](images/Picture2.jpg)
 *conception de l'interface de commande*
 
 ## 📸 Interface de commande
 
-![Monitoring](images/Picture1.PNG)
+![Monitoring](images/Picture1.png)
 *Monitoring*
 
 ## 📸 Interface de commande
 
-![Interface de commande](images/Picture3.PNG)
+![Interface de commande](images/Picture3.png)
 *Schéma de câblage complet du système Domotemp avec Arduino, L293D, DHT11 et relais*
 
 ## 🚀 Fonctionnalités Principales
