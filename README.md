@@ -6,17 +6,17 @@
 
 **Système complet de régulation thermique utilisant la bibliothèque SchreinSerialParser pour une communication série robuste et industrielle.**
 
-## 📸 Vue d'ensemble du système
+## Vue d'ensemble du système
 
 ![Schéma de câblage Domotemp](images/Picture5.PNG)
 *Schéma de câblage complet du système Domotemp avec Arduino, L293D, DHT11 et relais*
 
-## 📸 Conception graphique dans SchreinUIBuilder
+## Conception graphique dans l'environnement *SchreinUIBuilder*
 
 ![Conception UI](images/Picture2.jpg)
 *conception de l'interface de commande*
 
-## 📸 Interface de commande
+## Interface de commande
 
 ![Monitoring](images/Picture1.png)
 *Monitoring*
