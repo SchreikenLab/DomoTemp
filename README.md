@@ -87,3 +87,17 @@
 #define FAN_INPUT1_PIN      4     // Direction L293D IN1
 #define FAN_INPUT2_PIN      5     // Direction L293D IN2
 #define BULB_RELAY_PIN      6     // Commande relais ampoule
+
+```
+
+## 📹 Tutoriel Vidéo
+
+Apprenez à utiliser DomoTemp avec notre tutoriel complet :
+
+[![Tutoriel DomoTemp - Création d'IHM Domotique](https://img.youtube.com/vi/ABCD1234efgh/0.jpg)](https://www.youtube.com/watch?v=hEEzUG45vUM)
+
+**Dans cette vidéo :**
+- Installation de l'application
+- Création de votre première interface
+- Connexion des capteurs température/humidité
+- Configuration des tableaux de bord
