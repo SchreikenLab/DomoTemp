@@ -83,7 +83,7 @@
 ### Brochage Arduino
 ```cpp
 #define DHT_PIN             2     // Données DHT11
-#define FAN_ENABLE_PIN      3     // PWM vitesse ventilateur  
+#define FAN_ENABLE_PIN      3     // PWM vitesse ventilateur
 #define FAN_INPUT1_PIN      4     // Direction L293D IN1
 #define FAN_INPUT2_PIN      5     // Direction L293D IN2
 #define BULB_RELAY_PIN      6     // Commande relais ampoule
