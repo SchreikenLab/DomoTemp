@@ -82,6 +82,8 @@
 | Breadboard | 1 | Prototypage circuits |
 | Câbles Dupont | - | Interconnexions |
 
+<br>
+
 ### Brochage Arduino
 ```cpp
 #define DHT_PIN             2     // Données DHT11
