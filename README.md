@@ -94,7 +94,7 @@
 
 Apprenez à utiliser DomoTemp avec notre tutoriel complet :
 
-[![Tutoriel DomoTemp - Création d'IHM Domotique](https://img.youtube.com/vi/ABCD1234efgh/0.jpg)](https://www.youtube.com/watch?v=hEEzUG45vUM)
+[Tutoriel DomoTemp - Création d'IHM Domotique](https://www.youtube.com/watch?v=hEEzUG45vUM)
 
 **Dans cette vidéo :**
 - Installation de l'application
