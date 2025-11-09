@@ -6,24 +6,38 @@
 
 **Système complet de régulation thermique utilisant la bibliothèque SchreinSerialParser pour une communication série robuste et industrielle.**
 
-## Vue d'ensemble du système
+## Schéma de Câblage
 
-![Schématic](images/Picture5.PNG)  
+![Schéma de Câblage](images/Picture5.PNG)  
 *Schéma de câblage complet du système Domotemp avec Arduino, L293D, DHT11 et relais*
 
 <br>
 
-## Schrein UI Builder
+## Simulation Électronique
 
-![WorkSpace](images/Picture2.jpg)  
-*Conception de l'interface de commande*
+![Simulation](images/Picture7.jpg)  
+*Schéma de simulation électronique sous Proteus*
 
 <br>
 
-## Interface de commande
+## Photographie du Prototype
+
+![Prototype](images/Picture6.jpg)  
+*Vue physique du câblage Arduino avec capteur DHT11 et driver L293D*
+
+<br>
+
+## Conception d'Interface
+
+![Interface Builder](images/Picture2.jpg)  
+*Conception de l'interface de commande sous Schrein UI Builder*
+
+<br>
+
+## Interface de Monitoring
 
 ![Monitoring](images/Picture3.png)  
-*Monitoring du système*
+*Interface de monitoring et contrôle du système Domotemp*
 
 <br>
 
