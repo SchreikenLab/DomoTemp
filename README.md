@@ -66,6 +66,8 @@
 - **Validation données** : Communication fiable avec checksum
 - **Gestion d'erreurs** : Callbacks dédiés aux erreurs
 
+<br>
+
 ## 📋 Matériel Requis
 
 ### Composants Électroniques
@@ -89,6 +91,7 @@
 #define BULB_RELAY_PIN      6     // Commande relais ampoule
 
 ```
+<br>
 
 ## 📹 Tutoriel Vidéo
 
